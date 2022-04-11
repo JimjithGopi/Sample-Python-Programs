@@ -19,4 +19,6 @@ Input : geeks
 
 Output : No
 
-##### [Solution](/solutions/check_if_a_string_is_palindrome_or_not.py) 
+```
+
+##### [Solution](/questions/check_if_a_string_is_palindrome_or_not.md)
