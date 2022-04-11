@@ -11,3 +11,4 @@
 - [Get Kth Column of Matrix](/questions/Get_Kth_column_of_matrix.md)
 - [Check if a string is palindrome or not](/questions/check_if_a_string_is_palindrome_or_not.md) 
 - [Words Frequency in String Shorthands](/questions/Words_Frequency_in_String.md)
+- [Remove all duplicates from a given string in Python](/questions/Remove_all_duplicates_from_a_given_string.md)
