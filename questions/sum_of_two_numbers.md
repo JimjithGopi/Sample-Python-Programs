@@ -16,4 +16,4 @@ Input: num1 = 13, num2 = 6
 Output: 19
 ```
 
-######[Solution](/solutions/sum_of_two_numbers.py)
+###### [Solution](/solutions/sum_of_two_numbers.py)
