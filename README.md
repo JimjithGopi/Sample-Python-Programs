@@ -5,3 +5,4 @@
 - [Print digit pattern](/questions/Print_digit_pattern.md)
 - [Nth multiple of Fibonacci series](/questions/Nth_multiple_of_Fibonacci_Series.md)
 - [Sum of an array](/questions/sum_of_array.md)
+- [Find remainder of array](/questions/remainder_of_array.md)
