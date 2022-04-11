@@ -9,3 +9,4 @@
 - [Count occurance of an element](/questions/Count_occurrences_of_an_element.md)
 - [Add two matrices](/questions/add_two_matrices.md)
 - [Get Kth Column of Matrix](/questions/Get_Kth_column_of_matrix.md)
+- [Check if a string is palindrome or not](/questions/check_if_a_string_is_palindrome_or_not.md) 
