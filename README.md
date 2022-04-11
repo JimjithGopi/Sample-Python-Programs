@@ -8,3 +8,4 @@
 - [Find remainder of array](/questions/remainder_of_array.md)
 - [Count occurance of an element](/questions/Count_occurrences_of_an_element.md)
 - [Add two matrices](/questions/add_two_matrices.md)
+- [Get Kth Column of Matrix](/questions/Get_Kth_column_of_matrix.md)
