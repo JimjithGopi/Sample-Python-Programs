@@ -7,3 +7,4 @@
 - [Sum of an array](/questions/sum_of_array.md)
 - [Find remainder of array](/questions/remainder_of_array.md)
 - [Count occurance of an element](/questions/Count_occurrences_of_an_element.md)
+- [Add two matrices](/questions/add_two_matrices.md)
