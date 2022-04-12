@@ -17,3 +17,4 @@
 - [Program to print double sided stair-case pattern](/questions/print_double_sided_stair_case_pattern.md)
 - [Print with your own font using Python](/questions/Print_with_your_own_font.md)
 - [Python program to get Current Time](/questions/Python_program_to_get_Current_Time.md)
+- [Python program to Count Uppercase, Lowercase, special character and numeric values using Regex](/questions/Count_Uppercase_Lowercase_special_character_and_numeric_values_using_Regex.md)
