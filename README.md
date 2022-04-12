@@ -14,3 +14,4 @@
 - [Remove all duplicates from a given string in Python](/questions/Remove_all_duplicates_from_a_given_string.md)
 - [Print an Inverted Star Pattern](/questions/Print_an_inverted_star_pattern.md)
 - [Program to print the pattern ‘G’](/questions/Program_to_print_the_pattern%20_G.md)
+- [Program to print double sided stair-case pattern](/questions/print_double_sided_stair_case_pattern.md)
