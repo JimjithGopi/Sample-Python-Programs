@@ -15,3 +15,4 @@
 - [Print an Inverted Star Pattern](/questions/Print_an_inverted_star_pattern.md)
 - [Program to print the pattern ‘G’](/questions/Program_to_print_the_pattern%20_G.md)
 - [Program to print double sided stair-case pattern](/questions/print_double_sided_stair_case_pattern.md)
+- [Print with your own font using Python](/questions/Print_with_your_own_font.md)
